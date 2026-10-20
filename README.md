@@ -13,7 +13,7 @@
 <p align="center">
   <img src="./assets/lili-working.gif" width="460" alt="Lili, a fluffy little monkey, typing at a mint-green laptop and occasionally blinking." />
   <br />
-  <sub>Meet Lili, my little coding companion. One tiny keystroke at a time.</sub>
+  <sub>Meet Lili, my little coding companion. Little monkey, busy coding.</sub>
 </p>
 
 <p align="center">
