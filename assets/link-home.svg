@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="36" viewBox="0 0 164 36" role="img" aria-label="Personal website">
+  <rect x=".5" y=".5" width="163" height="35" rx="18" fill="#F6ECDF" stroke="#DDC9B2"/>
+  <g fill="none" stroke="#79583F" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m17 17 7-6 7 6M19 16v10h10V16M22 26v-6h4v6"/>
+  </g>
+  <text x="97" y="23" text-anchor="middle" fill="#79583F" font-family="Arial, Helvetica, sans-serif" font-size="12">Personal website</text>
+</svg>

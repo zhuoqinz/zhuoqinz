@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-labelledby="title desc">
+  <title id="title">Zhuoqing's little corner</title>
+  <desc id="desc">A warm cream welcome card with chestnut lettering and small mint leaves.</desc>
+  <rect width="960" height="190" rx="24" fill="#FBF4E9"/>
+  <rect x="12" y="12" width="936" height="166" rx="18" fill="none" stroke="#E8D8C5"/>
+  <g fill="#A8B9A2" opacity=".75">
+    <ellipse cx="72" cy="128" rx="10" ry="23" transform="rotate(-40 72 128)"/>
+    <ellipse cx="92" cy="111" rx="10" ry="23" transform="rotate(28 92 111)"/>
+    <ellipse cx="886" cy="67" rx="10" ry="23" transform="rotate(40 886 67)"/>
+    <ellipse cx="867" cy="84" rx="10" ry="23" transform="rotate(-28 867 84)"/>
+  </g>
+  <g fill="none" stroke="#8F9C83" stroke-width="2" stroke-linecap="round">
+    <path d="M79 153 Q78 129 92 101"/>
+    <path d="M880 43 Q883 68 865 97"/>
+  </g>
+  <g fill="#C7A379">
+    <circle cx="141" cy="58" r="3"/>
+    <circle cx="816" cy="132" r="3"/>
+    <path d="M801 43v12m-6-6h12M137 126v10m-5-5h10" stroke="#C7A379" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <text x="480" y="49" text-anchor="middle" fill="#9A7659" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="4">WELCOME TO</text>
+  <text x="480" y="103" text-anchor="middle" fill="#68452F" font-family="Georgia, 'Times New Roman', serif" font-size="43">Zhuoqing's little corner</text>
+  <text x="480" y="139" text-anchor="middle" fill="#8A725F" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing=".5">A place to learn, build, and stay curious.</text>
+</svg>

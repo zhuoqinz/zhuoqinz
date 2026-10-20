@@ -1,7 +1,64 @@
 <p align="center">
-  <img src="./assets/lili-working.gif" width="480" alt="毛绒小猴栗栗坐在电脑前打字，偶尔眨眨眼。" />
+  <img src="./assets/welcome.svg" width="900" alt="Welcome to Zhuoqing's little corner — a place to learn, build, and stay curious." />
 </p>
 
 <p align="center">
-  🐒 栗栗正在认真敲代码…
+  <a href="https://zhuoqinz.github.io/"><img src="./assets/link-home.svg" height="34" alt="Personal website" /></a>
+  &nbsp;
+  <a href="https://scholar.google.com/citations?user=2BWpaAwAAAAJ&amp;hl=en"><img src="./assets/link-scholar.svg" height="34" alt="Google Scholar" /></a>
+  &nbsp;
+  <a href="mailto:zhuoqinz@andrew.cmu.edu"><img src="./assets/link-email.svg" height="34" alt="Say hello by email" /></a>
+</p>
+
+<p align="center">
+  <img src="./assets/lili-working.gif" width="460" alt="Lili, a fluffy little monkey, typing at a mint-green laptop and occasionally blinking." />
+  <br />
+  <sub>Meet Lili, my little coding companion. One tiny keystroke at a time.</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="720" alt="" />
+</p>
+
+### A little about me
+
+Hi, I'm **Zhuoqing Zhong**. I'll join the M.S. program in **Electrical and Computer Engineering at Carnegie Mellon University** in **Spring 2027**.
+
+I'm interested in how models learn from language and vision, and how to make their behavior more reliable. My work so far spans language model interpretability, retrieval-based code completion, and multimodal learning.
+
+### On my desk
+
+| Learning to see & understand | Learning to act & be reliable |
+| :--- | :--- |
+| Multimodal large language models · Computer vision | Reinforcement learning · Reliable language models |
+
+I'm also curious about **world models** and **language model agents**.
+
+### From my research notebook
+
+- **[Position: Multimodal LLMs Should Learn from Children](https://openaccess.thecvf.com/content/CVPR2026W/CV4CHL/html/Shen_Position_Multimodal_LLMs_Should_Learn_from_Children_CVPRW_2026_paper.html)**<br />
+  Learning from the way children form tasks, infer supervision, and keep growing. · *CVPR Workshops, 2026*
+- **[Improving Negative Rejection Ability in Language Models](https://doi.org/10.1007/s44443-025-00334-6)**<br />
+  A review of fine-tuning, RAG, and RAFT for more reliable language models. · *JKSUCIS, 2026*
+
+<p>
+  <a href="https://zhuoqinz.github.io/#publications">More publications ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://zhuoqinz.github.io/files/Zhuoqing_Zhong_CV.pdf">Curriculum vitae ↗</a>
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="720" alt="" />
+</p>
+
+<p align="center">
+  <b>Have a research idea? Let's talk.</b><br />
+  I'm looking for research collaborations and mentorship as I work toward a Ph.D.<br /><br />
+  <a href="mailto:zhuoqinz@andrew.cmu.edu">zhuoqinz@andrew.cmu.edu</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/zhuoqing-zhong-909679406">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="900" alt="Thanks for stopping by. Lili saved you a seat." />
 </p>

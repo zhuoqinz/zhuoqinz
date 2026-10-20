@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="78" viewBox="0 0 960 78" role="img" aria-label="Thanks for stopping by. Lili saved you a seat.">
+  <rect width="960" height="78" rx="18" fill="#FBF4E9"/>
+  <path d="M301 38c-9-10-18 3 0 13 18-10 9-23 0-13Z" fill="#CBA78E"/>
+  <text x="493" y="35" text-anchor="middle" fill="#79583F" font-family="Georgia, 'Times New Roman', serif" font-size="19">Thanks for stopping by.</text>
+  <text x="493" y="56" text-anchor="middle" fill="#927861" font-family="Arial, Helvetica, sans-serif" font-size="12">Lili saved you a seat.</text>
+</svg>
