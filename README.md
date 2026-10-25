@@ -5,8 +5,6 @@
 <p align="center">
   <a href="https://zhuoqinz.github.io/"><img src="./assets/link-home.svg" height="34" alt="Personal website" /></a>
   &nbsp;
-  <a href="https://scholar.google.com/citations?user=2BWpaAwAAAAJ&amp;hl=en"><img src="./assets/link-scholar.svg" height="34" alt="Google Scholar" /></a>
-  &nbsp;
   <a href="mailto:zhuoqinz@andrew.cmu.edu"><img src="./assets/link-email.svg" height="34" alt="Say hello by email" /></a>
 </p>
 
@@ -22,9 +20,9 @@
 
 ### A little about me
 
-Hi, I'm **Zhuoqing Zhong**. I'll join the M.S. program in **Electrical and Computer Engineering at Carnegie Mellon University** in **Spring 2027**.
+Hi, I'm **Zhuoqing Zhong**, a master's student in **Electrical and Computer Engineering at Carnegie Mellon University**. Previously, I earned my B.Sc. in Computer Science from **Kean University**.
 
-I'm interested in how models learn from language and vision, and how to make their behavior more reliable. My work so far spans language model interpretability, retrieval-based code completion, and multimodal learning.
+I'm interested in multimodal learning and reliable language models. My research experience includes language model interpretability, rejection behavior, and cognitive screening.
 
 ### On my desk
 
